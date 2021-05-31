@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 7397ed335ebace94a835c0b5c4336c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1240081382179988156
+    second: Spritesheet_waterrad_0
+  - first:
+      213: -6046147003029882309
+    second: Spritesheet_waterrad_1
+  - first:
+      213: 2541453013173818268
+    second: Spritesheet_waterrad_2
+  - first:
+      213: -6602277441368273845
+    second: Spritesheet_waterrad_3
+  - first:
+      213: -3883641943651876620
+    second: Spritesheet_waterrad_4
+  - first:
+      213: -6813992959586978397
+    second: Spritesheet_waterrad_5
+  - first:
+      213: 2425096483713330906
+    second: Spritesheet_waterrad_6
+  - first:
+      213: 6849897444610989516
+    second: Spritesheet_waterrad_7
+  - first:
+      213: 2214490812451303293
+    second: Spritesheet_waterrad_0
+  - first:
+      213: 2554512837888800311
+    second: Spritesheet_waterrad_1
+  - first:
+      213: -2920586983356695286
+    second: Spritesheet_waterrad_2
+  - first:
+      213: 6355042937992413918
+    second: Spritesheet_waterrad_3
+  - first:
+      213: 6628741583707617829
+    second: Spritesheet_waterrad_4
+  - first:
+      213: -7357353486240797188
+    second: Spritesheet_waterrad_5
+  - first:
+      213: 8631282784994685814
+    second: Spritesheet_waterrad_6
+  - first:
+      213: 6818845053130241981
+    second: Spritesheet_waterrad_7
+  - first:
+      213: -686811186268883910
+    second: Spritesheet_waterrad_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 803, z: 607, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 300
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 296, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa68a39a37bbe10800000000000000
+      internalID: 2214490812451303293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_1
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 830
+        width: 286
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736798444e3737320800000000000000
+      internalID: 2554512837888800311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 460
+        width: 287
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df461dc9df777d0800000000000000
+      internalID: -2920586983356695286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 460
+        width: 290
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28463b1e5a13850800000000000000
+      internalID: 6355042937992413918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 460
+        width: 302
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab0cc89550efb50800000000000000
+      internalID: 6628741583707617829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 289
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda2a53cfd65e990800000000000000
+      internalID: -7357353486240797188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 287
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737d8366f978c770800000000000000
+      internalID: 8631282784994685814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_7
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 114
+        width: 292
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7f142b27761ae50800000000000000
+      internalID: 6818845053130241981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_waterrad_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 817
+        width: 299
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34bdae6dd4f776f0800000000000000
+      internalID: -686811186268883910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

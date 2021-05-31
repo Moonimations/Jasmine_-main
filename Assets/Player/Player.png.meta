@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 078705e41036ba64ea79611bba69308a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7343146833432877030
+    second: jasmine_spritesheet_0
+  - first:
+      213: 6436565398128530042
+    second: jasmine_spritesheet_1
+  - first:
+      213: -8046132325964937131
+    second: jasmine_spritesheet_2
+  - first:
+      213: 503839318719986638
+    second: jasmine_spritesheet_3
+  - first:
+      213: 5156142521242037683
+    second: jasmine_spritesheet_4
+  - first:
+      213: -4585624495430805730
+    second: jasmine_spritesheet_5
+  - first:
+      213: 918405873583359162
+    second: jasmine_spritesheet_6
+  - first:
+      213: 567504961267471623
+    second: jasmine_spritesheet_7
+  - first:
+      213: 5773762348725517341
+    second: jasmine_spritesheet_8
+  - first:
+      213: 3013831079855792614
+    second: jasmine_spritesheet_9
+  - first:
+      213: -6715235837870113973
+    second: jasmine_spritesheet_10
+  - first:
+      213: 2700776448372382033
+    second: jasmine_spritesheet_11
+  - first:
+      213: -3263717204906260481
+    second: jasmine_spritesheet_12
+  - first:
+      213: -7828121698541362925
+    second: jasmine_spritesheet_13
+  - first:
+      213: -1913836539757289821
+    second: jasmine_spritesheet_14
+  - first:
+      213: 1520548723796223774
+    second: jasmine_spritesheet_15
+  - first:
+      213: 8750993534394178526
+    second: jasmine_spritesheet_16
+  - first:
+      213: 3277780611456568367
+    second: jasmine_spritesheet_17
+  - first:
+      213: 1684515223742516379
+    second: jasmine_spritesheet_18
+  - first:
+      213: -2435612656401315900
+    second: jasmine_spritesheet_19
+  - first:
+      213: 8966972903409812579
+    second: jasmine_spritesheet_20
+  - first:
+      213: 5050442718692531662
+    second: jasmine_spritesheet_21
+  - first:
+      213: 1507003333703653534
+    second: jasmine_spritesheet_22
+  - first:
+      213: -3093330052774943875
+    second: jasmine_spritesheet_23
+  - first:
+      213: 3726881081614433425
+    second: jasmine_spritesheet_24
+  - first:
+      213: 2208235805394554033
+    second: jasmine_spritesheet_25
+  - first:
+      213: -137941681217813948
+    second: jasmine_spritesheet_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jasmine_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1500
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71d4ca32918e560800000000000000
+      internalID: 7343146833432877030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1499
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7295019026435950800000000000000
+      internalID: 6436565398128530042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1498
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558821f9745665090800000000000000
+      internalID: -8046132325964937131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1312
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbfd20e03ffdf600800000000000000
+      internalID: 503839318719986638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1311
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd2bedfd4c4e8740800000000000000
+      internalID: 5156142521242037683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1309
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17548c21d69c50c0800000000000000
+      internalID: -4585624495430805730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1132
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4819ea645debc00800000000000000
+      internalID: 918405873583359162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1132
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7059e9861ce20e700800000000000000
+      internalID: 567504961267471623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1132
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3f45f346802050800000000000000
+      internalID: 5773762348725517341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 949
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e126df266743d920800000000000000
+      internalID: 3013831079855792614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 951
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b77c49590bec2a0800000000000000
+      internalID: -6715235837870113973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 951
+        width: 84
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591af6ded51b7520800000000000000
+      internalID: 2700776448372382033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 770
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74b3a7e72f4b2d0800000000000000
+      internalID: -3263717204906260481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 771
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3112ae35accec5390800000000000000
+      internalID: -7828121698541362925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 767
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae9a999ecfa075e0800000000000000
+      internalID: -1913836539757289821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 594
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e172c8112031a1510800000000000000
+      internalID: 1520548723796223774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 593
+        width: 88
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1e493146c17970800000000000000
+      internalID: 8750993534394178526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 592
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c088589140d7d20800000000000000
+      internalID: 3277780611456568367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 415
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c09e9cba9906710800000000000000
+      internalID: 1684515223742516379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 416
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c701c48137f23ed0800000000000000
+      internalID: -2435612656401315900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 414
+        width: 88
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648b4ab856117c70800000000000000
+      internalID: 8966972903409812579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 234
+        width: 89
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd502ee4e6c61640800000000000000
+      internalID: 5050442718692531662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 233
+        width: 88
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e985cbc2c83f9e410800000000000000
+      internalID: 1507003333703653534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 88
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732f47c4b84215d0800000000000000
+      internalID: -3093330052774943875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 55
+        width: 89
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c70cd099a88b330800000000000000
+      internalID: 3726881081614433425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 90
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc47d8e3ca35ae10800000000000000
+      internalID: 2208235805394554033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jasmine_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 54
+        width: 88
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ca4395cee51ef0800000000000000
+      internalID: -137941681217813948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
